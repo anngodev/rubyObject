@@ -26,7 +26,6 @@ class calculator
 	end
 end
 
-
 # Elevator
 class Elevator
 	attr_accessor :floor
@@ -65,6 +64,7 @@ class Elevator
 		end
 	end
 end
+
 
 
 		
