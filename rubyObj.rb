@@ -1,6 +1,6 @@
 # calculator
 
-class calculator
+class Calculator
 	def addition(a, b)
 		sum = (a + b)
 		p sum
@@ -54,6 +54,7 @@ class Elevator
 			@floor -= 1
 			greeting
 		end
+	end
 
 	def going_down
 		if @floor == 1
